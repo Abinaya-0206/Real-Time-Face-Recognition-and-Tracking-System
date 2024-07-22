@@ -3,7 +3,7 @@
 This project is designed to implement a face recognition pipeline. It utilizes models such as YOLO and Adaface for various stages of face recognition and attribute recognition.
 
 # Features
-Face Detection: Using models like YOLO, SSD, and Faster RCNN to detect faces in images or video streams.
+Face Detection: Using YOLO model to detect faces in images or video streams.
 <br>
 Face Recognition: Identifying and verifying individuals using the Adaface model.
 <br>
